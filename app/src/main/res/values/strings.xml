@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gamya</string>
+    <string name="name">الاسم</string>
+    <string name="start_date">تاريخ البدء</string>
+    <string name="end_date">تاريخ الانتهاء</string>
+    <string name="members_number">عدد الافراد</string>
+    <string name="value">القيمة</string>
+    <string name="add_gamaya">اضافة الجمعية</string>
+</resources>
